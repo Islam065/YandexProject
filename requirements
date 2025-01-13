@@ -1,0 +1,9 @@
+sys
+datetime
+pyth
+requests: 2.32.3
+translate: 3.6.1
+QDarkStyle: 3.2.3
+PyQt5: 5.15.11
+timezonefinder: 6.5.7
+geopy: 2.4.1
